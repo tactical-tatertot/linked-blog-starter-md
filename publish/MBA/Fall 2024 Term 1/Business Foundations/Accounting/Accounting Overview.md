@@ -1,0 +1,9 @@
+1. **Financial Accounting Principles**:
+    
+    - **Balance Sheet**: A financial statement that provides a snapshot of a company's financial position at a specific point in time, showing its assets, liabilities, and shareholders' equity. [Click here to learn more.](https://uu.instructure.com/courses/20008/pages/accounting-the-balance-sheet "Accounting: The Balance Sheet")
+    - **Income Statement**: Also known as a profit and loss statement, this financial statement shows a company's revenues, expenses, and profits or losses over a specific period of time. [Click here to learn more.](https://uu.instructure.com/courses/20008/pages/accounting-the-income-statement "Accounting: The Income Statement")
+    - **Cash Flow Statement**: This statement shows how changes in balance sheet accounts and income affect cash and cash equivalents, breaking the analysis down to operating, investi[ng, and fin](https://uu.instructure.com/courses/20008/quizzes/64400 "Accounting Quiz")ancing activities. [Click here to learn more.](https://uu.instructure.com/courses/20008/pages/accounting-the-cash-flow-statement "Accounting: The Cash Flow Statement")
+2. **Managerial Accounting Concepts**:
+    
+    - **Cost Behavior**: Understanding how costs change in relation to changes in a company's level of activity. This helps in decision-making regarding pricing, budgeting, and resource allocation. [Click here to learn more.](https://uu.instructure.com/courses/20008/pages/accounting-cost-behavior-2 "Accounting: Cost Behavior")
+    - **Budgeting**: The process of creating a plan to spend money. Budgets can help businesses allocate resources, evaluate performance, and formulate plans. [Click here to learn more.](https://uu.instructure.com/courses/20008/pages/accounting-budgeting "Accounting: Budgeting")

@@ -11,5 +11,3 @@ I'm not a fan of [[reinventing-the-wheel|reinventing the wheel]], thus, I've sea
 
 ## Others:
 - Obsidian Git to help with [[connect-obsidian-vault-with-github|publishing notes from within the Obsidian Vault]]
-
-peepeepoopoo
